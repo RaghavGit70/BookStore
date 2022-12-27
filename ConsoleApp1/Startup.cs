@@ -31,6 +31,7 @@ internal class Startup
         //services.AddRazorPages();
         // IServiceCollection.AddControllers;
         services.AddScoped<BookRepository, BookRepository>();
+        services.AddScoped<LanguageRepository, LanguageRepository>();
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

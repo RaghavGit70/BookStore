@@ -22,6 +22,32 @@ namespace ConsoleApp1.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ConsoleApp1.Data.BookGallery", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("URL")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BookId");
+
+                    b.ToTable("BookGallery");
+                });
+
             modelBuilder.Entity("ConsoleApp1.Data.Books", b =>
                 {
                     b.Property<int>("Id")
@@ -34,7 +60,13 @@ namespace ConsoleApp1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("BookPdfUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Category")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CoverImageUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("CreatedOn")
@@ -85,6 +117,17 @@ namespace ConsoleApp1.Migrations
                     b.ToTable("Language");
                 });
 
+            modelBuilder.Entity("ConsoleApp1.Data.BookGallery", b =>
+                {
+                    b.HasOne("ConsoleApp1.Data.Books", "Book")
+                        .WithMany("bookGallery")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
+                });
+
             modelBuilder.Entity("ConsoleApp1.Data.Books", b =>
                 {
                     b.HasOne("ConsoleApp1.Data.Language", "Language")
@@ -94,6 +137,11 @@ namespace ConsoleApp1.Migrations
                         .IsRequired();
 
                     b.Navigation("Language");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Data.Books", b =>
+                {
+                    b.Navigation("bookGallery");
                 });
 
             modelBuilder.Entity("ConsoleApp1.Data.Language", b =>

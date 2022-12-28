@@ -27,8 +27,21 @@ namespace ConsoleApp1.Repository
                 Title = model.Title,
                 LanguageId = model.LanguageId,
                 TotalPages = model.TotalPages.HasValue ? model.TotalPages.Value : 0,
-                UpdatedOn = DateTime.UtcNow
+                UpdatedOn = DateTime.UtcNow,
+                CoverImageUrl = model.CoverImageUrl,
+                BookPdfUrl = model.BookPdfUrl
             };
+
+            newBook.bookGallery = new List<BookGallery>();
+
+            foreach (var file in model.Gallery)
+            {
+                newBook.bookGallery.Add(new BookGallery()
+                {
+                    Name = file.Name,
+                    URL = file.URL
+                });
+            }
 
             await _context.Books.AddAsync(newBook);
             await _context.SaveChangesAsync();
@@ -49,7 +62,8 @@ namespace ConsoleApp1.Repository
                       LanguageId = book.LanguageId,
                       Language = book.Language.Name,
                       Title = book.Title,
-                      TotalPages = book.TotalPages
+                      TotalPages = book.TotalPages,
+                      CoverImageUrl = book.CoverImageUrl
                   }).ToListAsync();
         }
 
@@ -65,7 +79,15 @@ namespace ConsoleApp1.Repository
                      LanguageId = book.LanguageId,
                      Language = book.Language.Name,
                      Title = book.Title,
-                     TotalPages = book.TotalPages
+                     TotalPages = book.TotalPages,
+                     CoverImageUrl = book.CoverImageUrl,
+                     Gallery = book.bookGallery.Select(g => new GalleryModel()
+                     {
+                         Id = g.Id,
+                         Name = g.Name,
+                         URL = g.URL
+                     }).ToList(),
+                     BookPdfUrl = book.BookPdfUrl
                  }).FirstOrDefaultAsync();
         }
 

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp1.Repository
 {
-    public class LanguageRepository
+    public class LanguageRepository : ILanguageRepository
     {
         private readonly BookStoreContext _context = null;
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+T1q1y+YYcsYYBPUiAHoBrO9PDIqPemmsgfeJZ6/CwI=",
+  "Hash": "+3nosnMBW+BPCReeHHv1NH2KcIcu0ixV3kSIo41zlWc=",
   "Source": "ConsoleApp1",
   "BasePath": "_content/ConsoleApp1",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\f0650d06-b5c5-497e-a4d4-668b533b874e_df157308-3a18-4a5d-8cb7-6e6ae5090786_dummy.pdf"
     },
     {
+      "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\CSS\\About.css",
+      "SourceId": "ConsoleApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\",
+      "BasePath": "_content/ConsoleApp1",
+      "RelativePath": "CSS/About.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\About.css"
+    },
+    {
       "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\CSS\\Site.css",
       "SourceId": "ConsoleApp1",
       "SourceType": "Discovered",
@@ -391,6 +408,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\book\\book3.jpg"
     },
     {
+      "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\Images\\login.png",
+      "SourceId": "ConsoleApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\",
+      "BasePath": "_content/ConsoleApp1",
+      "RelativePath": "Images/login.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\login.png"
+    },
+    {
       "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\Images\\logo.png",
       "SourceId": "ConsoleApp1",
       "SourceType": "Discovered",
@@ -408,6 +442,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
+      "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\Images\\logo1.png",
+      "SourceId": "ConsoleApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\",
+      "BasePath": "_content/ConsoleApp1",
+      "RelativePath": "Images/logo1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\logo1.png"
+    },
+    {
       "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\Images\\noimage.png",
       "SourceId": "ConsoleApp1",
       "SourceType": "Discovered",
@@ -423,6 +474,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\noimage.png"
+    },
+    {
+      "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\Images\\signup.png",
+      "SourceId": "ConsoleApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\",
+      "BasePath": "_content/ConsoleApp1",
+      "RelativePath": "Images/signup.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\signup.png"
     },
     {
       "Identity": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",

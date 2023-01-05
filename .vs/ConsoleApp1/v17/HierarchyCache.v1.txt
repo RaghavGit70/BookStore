@@ -1,0 +1,1706 @@
+﻿++Solution 'ConsoleApp1' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ConsoleApp1.sln
+++ConsoleApp1
+i:{00000000-0000-0000-0000-000000000000}:ConsoleApp1
+++Connected Services 
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>943
+++No service dependencies discovered
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>944
+++Dependencies
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>942
+++Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:analyzers
+++Frameworks
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:frameworks
+++Packages
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:packages
+++Microsoft.EntityFrameworkCore.Design (7.0.1)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>1949
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.1)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>1940
+++Microsoft.EntityFrameworkCore.Tools (7.0.1)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>1950
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.11)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>965
+++Swashbuckle.AspNetCore (6.3.0)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>964
+++Properties
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\properties\
+++launchSettings.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\properties\launchsettings.json
+++wwwroot
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\
+++books
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\
+++cover
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\cover\
+++37eb70ec-5d81-4ff4-a89e-4db1fe1c7e0c_b4.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\cover\37eb70ec-5d81-4ff4-a89e-4db1fe1c7e0c_b4.jpg
+++3982be51-fd10-405b-82b0-c89e1ade957c_b7.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\cover\3982be51-fd10-405b-82b0-c89e1ade957c_b7.jpg
+++6289c6fb-fce2-4dfd-bb52-6b422c5c9d33_b1.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\cover\6289c6fb-fce2-4dfd-bb52-6b422c5c9d33_b1.jpg
+++786ce48e-32d0-4bbd-a3dc-c40ca8faa5c7_b4.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\cover\786ce48e-32d0-4bbd-a3dc-c40ca8faa5c7_b4.jpg
+++gallery
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\
+++5e774cf3-3f40-4b1d-b098-11e2ff7844f6_b8.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\5e774cf3-3f40-4b1d-b098-11e2ff7844f6_b8.jpg
+++699f11be-1167-45c3-8b0f-ca43503d0690_book1.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\699f11be-1167-45c3-8b0f-ca43503d0690_book1.jpg
+++a651ffe7-7b92-4852-bf4b-bede8e364473_b4.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\a651ffe7-7b92-4852-bf4b-bede8e364473_b4.jpg
+++df8fb9e9-5d8f-41ab-be3b-f10ddbaff9d0_book2.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\df8fb9e9-5d8f-41ab-be3b-f10ddbaff9d0_book2.jpg
+++e69ee246-c79d-4028-b9ac-3add8b46249f_b2.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\e69ee246-c79d-4028-b9ac-3add8b46249f_b2.jpg
+++f738af51-609f-4c0b-9c91-5790700d44ef_b6.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\gallery\f738af51-609f-4c0b-9c91-5790700d44ef_b6.jpg
+++pdf
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\pdf\
+++CSS
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\css\
+++Site.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\css\site.css
+++Images
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\
+++book
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\
+++logo.png
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\logo.png
+++noimage.png
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\noimage.png
+++jquery-ajax-unobtrusive
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-ajax-unobtrusive\
+++jquery.unobtrusive-ajax.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+++jquery-validate
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\
+++localization
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\
+++additional-methods.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\additional-methods.js
+++jquery.validate.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\jquery.validate.js
+++jquery-validation-sri.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\jquery-validation-sri.json
+++jquery-validation-unobtrusive
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validation-unobtrusive\
+++jquery.validate.unobtrusive.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++lib
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\browser\lib\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\lib\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\
+++jquery
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\
+++jquery.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.js
+++jquery.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.min.js
+++jquery.min.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.min.map
+++jquery.slim.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.slim.js
+++jquery.slim.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.slim.min.js
+++twitter-bootstrap
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\
+++css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\
+++bootstrap.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.css
+++bootstrap-grid.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.css
+++js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\
+++bootstrap.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.js
+++scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\
+++forms
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\
+++helpers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\
+++mixins
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\
+++utilities
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\utilities\
+++vendor
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\vendor\
+++_rfs.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\vendor\_rfs.scss
+++_accordion.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_alert.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_buttons.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_card.scss
+++_carousel.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_carousel.scss
+++_close.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_close.scss
+++_containers.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_forms.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_functions.scss
+++_grid.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_grid.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_helpers.scss
+++_images.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_images.scss
+++_list-group.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_list-group.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_list-group.scss
+++_maps.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_maps.scss
+++_mixins.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_modal.scss
+++_nav.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_pagination.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_pagination.scss
+++_placeholders.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_placeholders.scss
+++_popover.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_popover.scss
+++_progress.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_reboot.scss
+++_root.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_root.scss
+++_spinners.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_transitions.scss
+++_type.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_type.scss
+++_utilities.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_utilities.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\bootstrap-utilities.scss
+++Components
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\components\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\components\
+++TopBooksViewComponent.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\components\topbooksviewcomponent.cs
+++Controllers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\controllers\
+++BookController.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\controllers\bookcontroller.cs
+++HomeController.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\controllers\homecontroller.cs
+++Data
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\data\
+++BookGallery.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\data\bookgallery.cs
+++Books.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\data\books.cs
+++BookStoreContext.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\data\bookstorecontext.cs
+++Language.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\data\language.cs
+++Enums
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\enums\
+++LanguageEnum.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\enums\languageenum.cs
+++Helpers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\helpers\
+++BigTagHelper.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\helpers\bigtaghelper.cs
+++CustomEmailTagHelper.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\helpers\customemailtaghelper.cs
+++MyCustomValidationAttribute.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\helpers\mycustomvalidationattribute.cs
+++Migrations
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\
+++20221224064443_init.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224064443_init.cs
+++20221224064443_init.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224064443_init.designer.cs
+++20221224070454_add2columns.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224070454_add2columns.cs
+++20221224103207_allownullcategory.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224103207_allownullcategory.cs
+++20221227062151_addLanguageTable.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221227062151_addlanguagetable.cs
+++20221227234215_addedNewColumn.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221227234215_addednewcolumn.cs
+++20221228060043_allownullimg.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228060043_allownullimg.cs
+++20221228064634_addedGalleryTable.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228064634_addedgallerytable.cs
+++20221228072716_allownullgal.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228072716_allownullgal.cs
+++20221228073702_addedBookUrl.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228073702_addedbookurl.cs
+++BookStoreContextModelSnapshot.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\bookstorecontextmodelsnapshot.cs
+++Models
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\
+++BookModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\bookmodel.cs
+++GalleryModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\gallerymodel.cs
+++LanguageModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\languagemodel.cs
+++Repository
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\
+++BookRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\bookrepository.cs
+++IBookRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\ibookrepository.cs
+++ILanguageRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\ilanguagerepository.cs
+++LanguageRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\languagerepository.cs
+++Views
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\
+++Book
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\book\
+++AddNewBook.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\book\addnewbook.cshtml
+++GetAllbooks.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\book\getallbooks.cshtml
+++GetBook.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\book\getbook.cshtml
+++Home
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\home\
+++AboutUs.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\home\aboutus.cshtml
+++Index.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\home\index.cshtml
+++Shared
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\
+++TopBooks
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\components\topbooks\
+++Default.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\components\topbooks\default.cshtml
+++_bookThumbnail.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\_bookthumbnail.cshtml
+++_footer.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\_footer.cshtml
+++_header.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\_header.cshtml
+++_Layout.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\_layout.cshtml
+++_ViewImports.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\_viewstart.cshtml
+++libman.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\libman.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\libman.json
+++Program.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\program.cs
+++Startup.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\startup.cs
+++MessagePackAnalyzer
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\microsoft.netcore.app
+++f0650d06-b5c5-497e-a4d4-668b533b874e_df157308-3a18-4a5d-8cb7-6e6ae5090786_dummy.pdf
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\books\pdf\f0650d06-b5c5-497e-a4d4-668b533b874e_df157308-3a18-4a5d-8cb7-6e6ae5090786_dummy.pdf
+++b1.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b1.jpg
+++b2.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b2.jpg
+++b4.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b4.jpg
+++b5.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b5.jpg
+++b6.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b6.jpg
+++b7.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b7.jpg
+++b8.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\b8.jpg
+++book1.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\book1.jpg
+++book2.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\book2.jpg
+++book3.jpg
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\book\book3.jpg
+++jquery.unobtrusive-ajax.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
+++messages_ar.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ar.js
+++messages_az.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_az.js
+++messages_bg.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_bg.js
+++messages_bn_BD.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_bn_bd.js
+++messages_ca.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ca.js
+++messages_cs.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_cs.js
+++messages_da.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_da.js
+++messages_de.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_de.js
+++messages_el.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_el.js
+++messages_es.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es.js
+++messages_es_AR.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es_ar.js
+++messages_es_PE.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es_pe.js
+++messages_et.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_et.js
+++messages_eu.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_eu.js
+++messages_fa.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fa.js
+++messages_fi.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fi.js
+++messages_fr.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fr.js
+++messages_ge.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ge.js
+++messages_gl.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_gl.js
+++messages_he.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_he.js
+++messages_hr.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hr.js
+++messages_hu.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hu.js
+++messages_hy_AM.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hy_am.js
+++messages_id.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_id.js
+++messages_is.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_is.js
+++messages_it.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_it.js
+++messages_ja.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ja.js
+++messages_ka.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ka.js
+++messages_kk.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_kk.js
+++messages_ko.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ko.js
+++messages_lt.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_lt.js
+++messages_lv.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_lv.js
+++messages_mk.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_mk.js
+++messages_my.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_my.js
+++messages_nl.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_nl.js
+++messages_no.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_no.js
+++messages_pl.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pl.js
+++messages_pt_BR.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pt_br.js
+++messages_pt_PT.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pt_pt.js
+++messages_ro.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ro.js
+++messages_ru.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ru.js
+++messages_sd.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sd.js
+++messages_si.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_si.js
+++messages_sk.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sk.js
+++messages_sl.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sl.js
+++messages_sr.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sr.js
+++messages_sr_lat.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sr_lat.js
+++messages_sv.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sv.js
+++messages_th.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_th.js
+++messages_tj.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_tj.js
+++messages_tr.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_tr.js
+++messages_uk.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_uk.js
+++messages_ur.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ur.js
+++messages_vi.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_vi.js
+++messages_zh.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_zh.js
+++messages_zh_TW.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_zh_tw.js
+++methods_de.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_de.js
+++methods_es_CL.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_es_cl.js
+++methods_fi.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_fi.js
+++methods_it.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_it.js
+++methods_nl.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_nl.js
+++methods_pt.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_pt.js
+++additional-methods.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\additional-methods.min.js
+++jquery.validate.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\jquery.validate.min.js
+++jquery.validate.unobtrusive.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.slim.min.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\jquery\jquery.slim.min.map
+++bootstrap.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map
+++bootstrap.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js
+++_floating-labels.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_clearfix.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_clearfix.scss
+++_color-bg.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_color-bg.scss
+++_colored-links.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_ratio.scss
+++_stacks.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_stacks.scss
+++_stretched-link.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_visually-hidden.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_visually-hidden.scss
+++_vr.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\helpers\_vr.scss
+++_backdrop.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_backdrop.scss
+++_banner.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_banner.scss
+++_border-radius.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\scss\utilities\_api.scss
+++20221224070454_add2columns.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224070454_add2columns.designer.cs
+++20221224103207_allownullcategory.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221224103207_allownullcategory.designer.cs
+++20221227062151_addLanguageTable.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221227062151_addlanguagetable.designer.cs
+++20221227234215_addedNewColumn.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221227234215_addednewcolumn.designer.cs
+++20221228060043_allownullimg.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228060043_allownullimg.designer.cs
+++20221228064634_addedGalleryTable.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228064634_addedgallerytable.designer.cs
+++20221228072716_allownullgal.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228072716_allownullgal.designer.cs
+++20221228073702_addedBookUrl.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221228073702_addedbookurl.designer.cs
+++messages_ar.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ar.min.js
+++messages_az.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_az.min.js
+++messages_bg.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_bg.min.js
+++messages_bn_BD.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_bn_bd.min.js
+++messages_ca.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ca.min.js
+++messages_cs.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_cs.min.js
+++messages_da.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_da.min.js
+++messages_de.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_de.min.js
+++messages_el.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_el.min.js
+++messages_es.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es.min.js
+++messages_es_AR.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es_ar.min.js
+++messages_es_PE.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_es_pe.min.js
+++messages_et.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_et.min.js
+++messages_eu.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_eu.min.js
+++messages_fa.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fa.min.js
+++messages_fi.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fi.min.js
+++messages_fr.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_fr.min.js
+++messages_ge.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ge.min.js
+++messages_gl.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_gl.min.js
+++messages_he.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_he.min.js
+++messages_hr.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hr.min.js
+++messages_hu.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hu.min.js
+++messages_hy_AM.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_hy_am.min.js
+++messages_id.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_id.min.js
+++messages_is.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_is.min.js
+++messages_it.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_it.min.js
+++messages_ja.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ja.min.js
+++messages_ka.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ka.min.js
+++messages_kk.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_kk.min.js
+++messages_ko.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ko.min.js
+++messages_lt.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_lt.min.js
+++messages_lv.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_lv.min.js
+++messages_mk.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_mk.min.js
+++messages_my.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_my.min.js
+++messages_nl.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_nl.min.js
+++messages_no.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_no.min.js
+++messages_pl.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pl.min.js
+++messages_pt_BR.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pt_br.min.js
+++messages_pt_PT.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_pt_pt.min.js
+++messages_ro.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ro.min.js
+++messages_ru.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ru.min.js
+++messages_sd.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sd.min.js
+++messages_si.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_si.min.js
+++messages_sk.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sk.min.js
+++messages_sl.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sl.min.js
+++messages_sr.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sr.min.js
+++messages_sr_lat.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sr_lat.min.js
+++messages_sv.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_sv.min.js
+++messages_th.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_th.min.js
+++messages_tj.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_tj.min.js
+++messages_tr.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_tr.min.js
+++messages_uk.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_uk.min.js
+++messages_ur.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_ur.min.js
+++messages_vi.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_vi.min.js
+++messages_zh.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_zh.min.js
+++messages_zh_TW.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\messages_zh_tw.min.js
+++methods_de.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_de.min.js
+++methods_es_CL.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_es_cl.min.js
+++methods_fi.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_fi.min.js
+++methods_it.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_it.min.js
+++methods_nl.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_nl.min.js
+++methods_pt.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\jquery-validate\localization\methods_pt.min.js
+++bootstrap.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.min.js.map
+++appsettings.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\appsettings.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\appsettings.development.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\appsettings.development.json
+++appsettings.Production.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\appsettings.production.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\appsettings.production.json
+++MessageRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\messagerepository.cs
+++IMessageRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\imessagerepository.cs
+++NewBookAlertconfig.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\newbookalertconfig.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>8158
+++bin
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\
+++Debug
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\
+++net6.0
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\browser\lib\net6.0\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\lib\net6.0\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\net6.0\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\
+++cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\
+++de
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\
+++es
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\
+++fr
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\
+++it
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\
+++ja
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\
+++ko
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\
+++pl
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\
+++pt-BR
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\
+++ru
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\
+++runtimes
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\
+++tr
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\
+++zh-Hans
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\
+++Azure.Core.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\azure.core.dll
+++Azure.Identity.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\azure.identity.dll
+++ConsoleApp1.deps.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.deps.json
+++ConsoleApp1.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\refint\consoleapp1.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\ref\consoleapp1.dll
+++ConsoleApp1.exe
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.exe
+++ConsoleApp1.pdb
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.pdb
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.pdb
+++ConsoleApp1.runtimeconfig.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.runtimeconfig.json
+++ConsoleApp1.staticwebassets.runtime.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\consoleapp1.staticwebassets.runtime.json
+++dotnet-aspnet-codegenerator-design.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.build.dll
+++Microsoft.Build.Framework.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.build.framework.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.dependencymodel.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.Identity.Client.Extensions.Msal.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identity.client.extensions.msal.dll
+++Microsoft.IdentityModel.Abstractions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.abstractions.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.NET.StringTools.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.net.stringtools.dll
+++Microsoft.OpenApi.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.SqlServer.Server.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.sqlserver.server.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.win32.systemevents.dll
+++Mono.TextTemplating.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\mono.texttemplating.dll
+++Newtonsoft.Json.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\nuget.versioning.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.CodeDom.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.codedom.dll
+++System.Composition.AttributedModel.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.drawing.common.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\lib\net6.0\system.drawing.common.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Memory.Data.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.memory.data.dll
+++System.Reflection.MetadataLoadContext.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.reflection.metadataloadcontext.dll
+++System.Runtime.Caching.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.security.permissions.dll
+++System.Text.Encodings.Web.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\browser\lib\net6.0\system.text.encodings.web.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.text.encodings.web.dll
+++System.Text.Json.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.text.json.dll
+++System.Windows.Extensions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.windows.extensions.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\system.windows.extensions.dll
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++browser
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\browser\
+++unix
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\
+++win
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x86\
+++native
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm\native\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x64\native\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x86\native\
+++netcoreapp3.1
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+++obj
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\
+++ConsoleApp1.csproj.nuget.dgspec.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\consoleapp1.csproj.nuget.dgspec.json
+++ConsoleApp1.csproj.nuget.g.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\consoleapp1.csproj.nuget.g.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\consoleapp1.csproj.nuget.g.props
+++ConsoleApp1.csproj.nuget.g.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\consoleapp1.csproj.nuget.g.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\consoleapp1.csproj.nuget.g.targets
+++project.assets.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\project.assets.json
+++project.nuget.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\staticwebassets.pack.sentinel
+++ref
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\ref\
+++refint
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\refint\
+++staticwebassets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\apphost.exe
+++ConsoleApp1.AssemblyInfo.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.assemblyinfo.cs
+++ConsoleApp1.AssemblyInfoInputs.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.assemblyinfoinputs.cache
+++ConsoleApp1.assets.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.assets.cache
+++ConsoleApp1.csproj.AssemblyReference.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.csproj.assemblyreference.cache
+++ConsoleApp1.csproj.BuildWithSkipAnalyzers
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.csproj.buildwithskipanalyzers
+++ConsoleApp1.csproj.CopyComplete
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.csproj.copycomplete
+++ConsoleApp1.csproj.CoreCompileInputs.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.csproj.corecompileinputs.cache
+++ConsoleApp1.csproj.FileListAbsolute.txt
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.csproj.filelistabsolute.txt
+++ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.generatedmsbuildeditorconfig.editorconfig
+++ConsoleApp1.genruntimeconfig.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.genruntimeconfig.cache
+++ConsoleApp1.GlobalUsings.g.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.globalusings.g.cs
+++ConsoleApp1.MvcApplicationPartsAssemblyInfo.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.mvcapplicationpartsassemblyinfo.cache
+++ConsoleApp1.MvcApplicationPartsAssemblyInfo.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.mvcapplicationpartsassemblyinfo.cs
+++ConsoleApp1.RazorAssemblyInfo.cache
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.razorassemblyinfo.cache
+++ConsoleApp1.RazorAssemblyInfo.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\consoleapp1.razorassemblyinfo.cs
+++project.razor.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\obj\debug\net6.0\staticwebassets.development.json
+++Imports
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:>8159
+++Sdk.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\swashbuckle.aspnetcore\6.3.0\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.entityframeworkcore\7.0.1\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.entityframeworkcore.design\7.0.1\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++ConsoleApp1.csproj.user
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\consoleapp1.csproj.user
+++Microsoft.NET.props
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++System.Text.Json.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\system.text.json\7.0.0\buildtransitive\net6.0\system.text.json.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Extensions.Logging.Abstractions.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\users\unthinkable-lap\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\buildtransitive\net6.0\microsoft.extensions.logging.abstractions.targets
+++Microsoft.Docker.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++20221231010917_addedidentitycore.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221231010917_addedidentitycore.cs
+++20221231010917_addedidentitycore.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20221231010917_addedidentitycore.designer.cs
+++login.png
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\login.png
+++signup.png
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\wwwroot\images\signup.png
+++SignUpUserModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\signupusermodel.cs
+++AccountController.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\controllers\accountcontroller.cs
+++Account
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\account\
+++Signup.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\account\signup.cshtml
+++AccountRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\accountrepository.cs
+++IAccountRepository.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\repository\iaccountrepository.cs
+++ApplicationUser.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\applicationuser.cs
+++20230101010207_addednewcol.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20230101010207_addednewcol.cs
+++20230101010207_addednewcol.Designer.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\migrations\20230101010207_addednewcol.designer.cs
+++SignInModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\signinmodel.cs
+++Login.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\account\login.cshtml
+++_LoginInfo.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\shared\_logininfo.cshtml
+++ApplicationUserClaimsPrincipalFactory.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\helpers\applicationuserclaimsprincipalfactory.cs
+++NewFolder
+++Services
+++Service
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\service\
+++UserService.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\service\userservice.cs
+++IUserService.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\service\iuserservice.cs
+++ChangePasswordModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\changepasswordmodel.cs
+++ChangePassword.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\account\changepassword.cshtml
+++EmailTemplate
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\emailtemplate\
+++TestEmail.html
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\emailtemplate\testemail.html
+++SMTPConfigModel.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\smtpconfigmodel.cs
+++UserEmailOptions,cs.cs
+++UserEmailOptions.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\models\useremailoptions.cs
+++EmailService.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\service\emailservice.cs
+++IEmailService.cs
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\service\iemailservice.cs
+++EmailConfirm.html
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\emailtemplate\emailconfirm.html
+++ConfirmEmail.cshtml
+i:{50eae37b-86fc-4ae2-8507-832e4157ac3d}:d:\coreprac\consoleapp1\consoleapp1\views\account\confirmemail.cshtml

@@ -8,23 +8,35 @@ using ConsoleApp1.Models;
 using ConsoleApp1.Repository;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Webgentle.BookStore.Controllers
 {
     public class BookController : Controller
     {
-        private readonly BookRepository _bookRepository = null;
-        private readonly LanguageRepository _languageRepository = null;
+        #region Consructor and varaibles
+
+        private readonly IBookRepository _bookRepository = null;
+        private readonly ILanguageRepository _languageRepository = null;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public BookController(BookRepository bookRepository, 
-            LanguageRepository languageRepository,
+        /// <summary>
+        /// Book Controller Constructor to initialse repositories
+        /// </summary>
+        /// <param name="bookRepository"></param>
+        /// <param name="languageRepository"></param>
+        /// <param name="webHostEnvironment"></param>
+        public BookController(IBookRepository bookRepository, 
+            ILanguageRepository languageRepository,
             IWebHostEnvironment webHostEnvironment)
         {
             _bookRepository = bookRepository;
             _webHostEnvironment = webHostEnvironment;
             _languageRepository = languageRepository;
         }
+        #endregion
+
+        #region Public Methods
 
         [Route("all-books")]
 
@@ -48,12 +60,12 @@ namespace Webgentle.BookStore.Controllers
         {
             return _bookRepository.SearchBook(bookName, authorName);
         }
-
+        [Authorize]
         public async Task<ViewResult> AddNewBook(bool isSuccess = false, int bookId = 0)
         {
             var model = new BookModel();
 
-            ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
+            //ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
 
             ViewBag.IsSuccess = isSuccess;
             ViewBag.BookId = bookId;
@@ -102,12 +114,22 @@ namespace Webgentle.BookStore.Controllers
                 }
             }
 
-            ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
+           // ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
 
 
             return View();
         }
 
+        #endregion
+
+        #region Non-Public Methods
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="folderPath"></param>
+        /// <param name="file"></param>
+        /// <returns></returns>
         private async Task<string> UploadImage(string folderPath, IFormFile file)
         {
 
@@ -119,5 +141,6 @@ namespace Webgentle.BookStore.Controllers
 
             return "/" + folderPath;
         }
+        #endregion
     }
 }

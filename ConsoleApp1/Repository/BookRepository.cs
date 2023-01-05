@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +9,15 @@ using ConsoleApp1.Models;
 
 namespace ConsoleApp1.Repository
 {
-    public class BookRepository
+    public class BookRepository : IBookRepository
     {
         private readonly BookStoreContext _context = null;
+        private readonly IConfiguration _configuration;
 
-        public BookRepository(BookStoreContext context)
+        public BookRepository(BookStoreContext context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
 
         public async Task<int> AddNewBook(BookModel model)
@@ -111,6 +114,11 @@ namespace ConsoleApp1.Repository
         public List<BookModel> SearchBook(string title, string authorName)
         {
             return null;
+        }
+
+        public string GetAppName()
+        {
+            return _configuration["AppName"];
         }
     }
 }

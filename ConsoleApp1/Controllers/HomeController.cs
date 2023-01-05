@@ -26,7 +26,7 @@ namespace ConsoleApp1.Controllers
 
         public async Task<ViewResult> Index()
         {
-            UserEmailOptions options = new UserEmailOptions
+            /*UserEmailOptions options = new UserEmailOptions
             {
                 ToEmails = new List<string>() { "test@gmail.com"},
                 PlaceHolders = new List<KeyValuePair<string, string>>()
@@ -35,7 +35,7 @@ namespace ConsoleApp1.Controllers
                 }
             };
 
-            await _emailService.SendTestEmail(options);
+            await _emailService.SendTestEmail(options);*/
             return View();
         }
 

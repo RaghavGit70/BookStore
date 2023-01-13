@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "ConsoleApp1": {
+    "BookWebApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

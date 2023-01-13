@@ -3375,6 +3375,23 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "BookDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/BookDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookDAL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -10396,10 +10413,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "BookDAL/1.0.0": {
+      "type": "project",
+      "path": "../BookDAL/BookDAL.csproj",
+      "msbuildProject": "../BookDAL/BookDAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookDAL >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
@@ -10414,9 +10437,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\BookWebApp.csproj",
+      "projectName": "BookWebApp",
+      "projectPath": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\BookWebApp.csproj",
       "packagesPath": "C:\\Users\\Unthinkable-Lap\\.nuget\\packages\\",
       "outputPath": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -10434,7 +10457,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\CorePrac\\ConsoleApp1\\BookDAL\\BookDAL.csproj": {
+              "projectPath": "D:\\CorePrac\\ConsoleApp1\\BookDAL\\BookDAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

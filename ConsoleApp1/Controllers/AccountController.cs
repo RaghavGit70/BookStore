@@ -1,21 +1,28 @@
-﻿using ConsoleApp1.Models;
-using ConsoleApp1.Repository;
+﻿using BookDAL.Models;
+using BookWebApp.Models;
+using BookWebApp.Repository;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ConsoleApp1.Controllers
+namespace BookWebApp.Controllers
 {
     public class AccountController : Controller
     {
+        #region Consructor and varaibles
         private readonly IAccountRepository _accountRepository;
 
         public AccountController(IAccountRepository accountRepository)
         {
             _accountRepository = accountRepository;
         }
+
+        #endregion
+
+        #region Signup api
         /// <summary>
         /// returning view for signing up new user
         /// </summary>
         /// <returns></returns>
+
         [Route("signup")]
         public IActionResult Signup()
         {
@@ -48,12 +55,26 @@ namespace ConsoleApp1.Controllers
             }
             return View(userModel);
         }
+        #endregion
+
+        #region login api
+        /// <summary>
+        /// returning view for login page
+        /// </summary>
+        /// <returns></returns>
 
         [Route("login")]
         public IActionResult Login()
         {
             return View();
         }
+
+        /// <summary>
+        /// api for posting log in details and verifying user
+        /// </summary>
+        /// <param name="signInModel"></param>
+        /// <param name="returnUrl"></param>
+        /// <returns></returns>
 
         [Route("login")]
         [HttpPost]
@@ -70,19 +91,19 @@ namespace ConsoleApp1.Controllers
                     }
                     return RedirectToAction("Index", "Home");
                 }
+
                 ModelState.AddModelError("", "Invalid credentials");
-                //if (result.IsNotAllowed)
-                //{
-                //    ModelState.AddModelError("", "Not allowed to login");
-                //}
-                //else
-                //{
-                //    ModelState.AddModelError("", "Invalid credentials");
-                //}
             }
 
             return View(signInModel);
         }
+        #endregion
+
+        #region logout api
+        /// <summary>
+        /// api for user to logout
+        /// </summary>
+        /// <returns></returns>
 
         [Route("logout")]
         public async Task<IActionResult> Logout()
@@ -90,12 +111,20 @@ namespace ConsoleApp1.Controllers
             await _accountRepository.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
+        #endregion
 
+        #region change-password api
         [Route("change-password")]
         public IActionResult ChangePassword()
         { 
             return View();
         }
+
+        /// <summary>
+        /// method for changing user password
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
 
         [HttpPost("change-password")]
         public async Task<IActionResult> ChangePassword(ChangePasswordModel model)
@@ -118,24 +147,6 @@ namespace ConsoleApp1.Controllers
             }
             return View(model);
         }
-
-        //[HttpGet("confirm-email")]
-        //public async Task<IActionResult> ConfirmEmail(string uid, string token)
-        //{
-
-        //    if (!string.IsNullOrEmpty(uid) && !string.IsNullOrEmpty(token))
-        //    {
-        //        token = token.Replace(' ', '+');
-        //        var result = await _accountRepository.ConfirmEmailAsync(uid, token);
-        //        if (result.Succeeded)
-        //        {
-        //            ViewBag.IsSuccess = true;
-        //        }
-        //    }
-
-        //    return View();
-
-        //}
-
+        #endregion
     }
 }

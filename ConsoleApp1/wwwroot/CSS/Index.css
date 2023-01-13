@@ -1,0 +1,8 @@
+﻿.img-thumbnail {
+    height: 300px;
+}
+
+p.card-text {
+    height: 200px !important;
+    overflow-y: auto;
+}

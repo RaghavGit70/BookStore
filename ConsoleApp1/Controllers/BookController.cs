@@ -4,8 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ConsoleApp1.Models;
-using ConsoleApp1.Repository;
+using BookWebApp.Models;
+using BookWebApp.Repository;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Authorization;
@@ -21,7 +21,7 @@ namespace Webgentle.BookStore.Controllers
         private readonly IWebHostEnvironment _webHostEnvironment;
 
         /// <summary>
-        /// Book Controller Constructor to initialse repositories
+        /// Book Controller Constructor to initialize repositories
         /// </summary>
         /// <param name="bookRepository"></param>
         /// <param name="languageRepository"></param>
@@ -38,6 +38,11 @@ namespace Webgentle.BookStore.Controllers
 
         #region Public Methods
 
+        /// <summary>
+        /// method to return all the books 
+        /// </summary>
+        /// <returns></returns>
+
         [Route("all-books")]
 
         public async Task<ViewResult> GetAllBooks()
@@ -47,7 +52,13 @@ namespace Webgentle.BookStore.Controllers
             return View(data);
         }
 
-       // [Route("book-details/{id}", Name = "bookDetailsRoute")]
+        /// <summary>
+        /// api to return the details of particular book
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+
+       
         [Route("book-details/{id:int:min(1)}", Name = "bookDetailsRoute")]
         public async Task<ViewResult> GetBook(int id)
         {
@@ -60,12 +71,18 @@ namespace Webgentle.BookStore.Controllers
         {
             return _bookRepository.SearchBook(bookName, authorName);
         }
+
+        /// <summary>
+        /// api to add books in application database
+        /// </summary>
+        /// <param name="isSuccess"></param>
+        /// <param name="bookId"></param>
+        /// <returns></returns>
+
         [Authorize]
         public async Task<ViewResult> AddNewBook(bool isSuccess = false, int bookId = 0)
         {
             var model = new BookModel();
-
-            //ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
 
             ViewBag.IsSuccess = isSuccess;
             ViewBag.BookId = bookId;
@@ -113,10 +130,6 @@ namespace Webgentle.BookStore.Controllers
                     return RedirectToAction(nameof(AddNewBook), new { isSuccess = true, bookId = id });
                 }
             }
-
-           // ViewBag.Language = new SelectList(await _languageRepository.GetLanguages(), "Id", "Name");
-
-
             return View();
         }
 
@@ -125,7 +138,7 @@ namespace Webgentle.BookStore.Controllers
         #region Non-Public Methods
 
         /// <summary>
-        /// 
+        /// method to provide url to upload image
         /// </summary>
         /// <param name="folderPath"></param>
         /// <param name="file"></param>

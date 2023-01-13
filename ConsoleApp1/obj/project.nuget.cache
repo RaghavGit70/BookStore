@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F4ZBHPff1QlJcDHTTOzRnHC/nP2f12aiKtV2u0xw5A8qKkCvmXsxOYWKzF2scKCujwlaWIoLGK6Q/7g34fc/fA==",
+  "dgSpecHash": "UDpltIbfQK625cFy+X3nbS1Uf08UoOf8Z52PwMxCSTPEP6nyDWlMCgE2pLRA9peTdeZ5Tgq39q6iJnf6FDtkIw==",
   "success": true,
-  "projectFilePath": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\CorePrac\\ConsoleApp1\\ConsoleApp1\\BookWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Unthinkable-Lap\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Unthinkable-Lap\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

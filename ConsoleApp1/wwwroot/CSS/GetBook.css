@@ -1,0 +1,7 @@
+﻿
+iframe.w-100 {
+    height: -webkit-fill-available;
+}
+.modal-content {
+    height: 700px;
+}
